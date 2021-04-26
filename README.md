@@ -4,3 +4,15 @@
 
 reneargento - 课后习题答案参考：[https://github.com/reneargento/algorithms-sedgewick-wayne](https://github.com/reneargento/algorithms-sedgewick-wayne)
 
+
+
+> **安装依赖**
+
+npm install -g live-server
+
+
+
+> **运行**
+
+根目录运行 live-server
+

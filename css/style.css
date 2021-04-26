@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button,textarea {
+    width: 50vw;
+    margin: 3vh;
+}
+
+button {
+    width: 20vw;
+    max-width: 200px;
+    height: 30px;
+}
+
+textarea {
+    outline:none;
+    resize:none;
+    background: #333;
+    border-radius: 6px;
+    color: white;
+    padding: 10px;
+}
